@@ -7,7 +7,7 @@
         "plugin:react/recommended",
         "airbnb",
         "plugin:@typescript-eslint/recommended",
-        "prettier" //this should always be the last, it makes sure that Prettier is run, by ESlint, at last
+        "prettier" //this should always be the last, it makes sure that Prettier is run, by ESlint, at las
     ],
     "parser": "@typescript-eslint/parser",
     "parserOptions": {
